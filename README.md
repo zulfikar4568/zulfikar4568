@@ -11,8 +11,6 @@ I'm living in Cimahi Indonesia, and I'm exited in various Technology in Embbeded
 
 ---
 
-<br/>
-
 ## Software Development:
 
 | Language  | Stack | Deployment | Environment | Tools |
