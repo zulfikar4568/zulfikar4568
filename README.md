@@ -18,8 +18,6 @@ I'm living in Cimahi Indonesia, and I'm exited in various Technology in Embbeded
 <br/>
 <br/>
 
----
-
 ## Tools
 <br/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -30,8 +28,6 @@ I'm living in Cimahi Indonesia, and I'm exited in various Technology in Embbeded
 <img align="left" alt="Altium" width="26px" src="https://crackproduct.com/wp-content/uploads/2021/03/Altium-Designer-Crack-License-Key-Updated-Free-Download.png" />
 <br/>
 <br/>
-
----
 
 <br />
 
@@ -58,12 +54,11 @@ I'm living in Cimahi Indonesia, and I'm exited in various Technology in Embbeded
 <img align="left" alt="Rails" width="30px" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg" />
 <img align="left" alt="Mendix" width="26px" src="https://avatars.githubusercontent.com/u/133443?s=280&v=4" />
 <br/>
+
 - Deployment
 <br/>
 <img align="left" alt="Docker" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" />
 <br/>
-
----
 
 ## Embedded System:
 
