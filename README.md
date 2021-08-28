@@ -50,5 +50,5 @@ I'm living in Cimahi Indonesia, and I'm exited in various Technology in Embbeded
 
 [website]: https://vechr.site
 [instagram]: https://www.instagram.com/robotik_barbar
-[linkedin]: https://linkedin.com/in/zulfikar4568
+[linkedin]: https://www.linkedin.com/in/zulfikar-isnaen-5974121b6/
 [null]: null
