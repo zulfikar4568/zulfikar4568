@@ -23,6 +23,7 @@ I'm living in Cimahi Indonesia, and I'm exited in various Technology in Embbeded
 | [<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />][null]  | [<img align="left" alt="ASP NET" width="40px" src="https://softwareasli.com/wp-content/uploads/2019/08/ASP.NET_.png" />][null]  |   |
 |   | [<img align="left" alt="Rails" width="30px" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg" />][null]  |   |
 |   | [<img align="left" alt="Mendix" width="26px" src="https://avatars.githubusercontent.com/u/133443?s=280&v=4" />][null]  |   |
+|   | [<img align="left" alt="Postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />][null]  |   |
 
 <br/>
 
