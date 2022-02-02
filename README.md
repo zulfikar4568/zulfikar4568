@@ -2,8 +2,46 @@
 
 Hi I'm Zulfikar Isnaen (Mechatronics Enginner) technical guy who loved Technology especially in **Embbeded System** (Electronics, Control System) and **Software Development**. Here you can see the languages and tools that I'm used.
 
-| <p>Top Languages :</p><a href="https://github.com/zulfikar4568"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code></a> | <p>Top Tools :</p><a href="https://github.com/zulfikar4568"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg"></code><code><img height="19" src="https://avatars.githubusercontent.com/u/133443?s=280&v=4"></code><code><img height="19" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code><code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code><code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code><code><img height="16" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/Ros_logo.png"></code></a> | 
-| ------------- | ------------- |
+**Top Languages and Tools :**
+
+<code>
+    <img align="left" alt="Javascript" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+</code>
+<code>
+    <img align="left" alt="C#" width="21px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/>
+</code>
+<code>
+    <img align="left" alt="C#" width="21px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"/>
+</code>
+<code>
+    <img align="left" alt="Javascript" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+</code>
+<code>
+    <img align="left" alt="Docker" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"/>
+</code>
+<code>
+    <img align="left" alt="NodeJs" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+</code>
+<code>
+    <img align="left" alt="Rails" width="21px" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg"/>
+</code>
+<code>
+    <img align="left" alt="Mendix" width="21px" src="https://avatars.githubusercontent.com/u/133443?s=280&v=4"/>
+</code>
+<code>
+    <img align="left" alt="VCS" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+</code>
+<code>
+    <img align="left" alt="GIT" width="21px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
+</code>
+<code>
+    <img align="left" alt="bash" width="21px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"/>
+</code>
+<code>
+    <img align="left" alt="ROS" width="21px" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/Ros_logo.png"/>
+</code>
+
+</br>
 
 | <a href="https://github.com/zulfikar4568"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zulfikar4568&theme=buefy&show_icons=true&hide_border=true" alt="Zulfikar's github stats" /></a> | <a href="https://github.com/zulfikar4568"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar4568&layout=compact&exclude_repo=bash-siemens-mes&langs_count=10&hide_border=true" /></a> |
 | ------------- | ------------- |
