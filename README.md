@@ -15,7 +15,7 @@ Hi I'm Zulfikar Isnaen (Mechatronics Enginner) technical guy who loved Technolog
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code> 
 <code><img height="16" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/Ros_logo.png"></code> 
 
-| <a href="https://github.com/zulfikar4568"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zulfikar4568&theme=buefy&show_icons=true&hide_border=true" alt="Zulfikar's github stats" /></a> | <a href="https://github.com/zulfikar4568"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar4568&layout=compact&exclude_repo=bash-siemens-mes,inspection-asp&langs_count=10&hide_border=true" /></a> |
+| <a href="https://github.com/zulfikar4568"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zulfikar4568&theme=buefy&show_icons=true&hide_border=true" alt="Zulfikar's github stats" /></a> | <a href="https://github.com/zulfikar4568"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar4568&layout=compact&exclude_repo=bash-siemens-mes,inspection-asp,inspection-vb,LaserPrinting,PPAGUI,HIPOTGUI,FTGUI,VisualCheckingGUI,BackendGUI&langs_count=10&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </br>
